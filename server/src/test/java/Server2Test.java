@@ -14,7 +14,7 @@ public class Server2Test {
 
     @Test
     public void main() throws Exception {
-        assertTrue(true);
+        assertTrue(false);
     }
 
 }
